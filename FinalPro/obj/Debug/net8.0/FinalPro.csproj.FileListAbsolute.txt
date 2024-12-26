@@ -1,0 +1,14 @@
+/Users/mazn/Desktop/FinalPro/bin/Debug/net8.0/FinalPro
+/Users/mazn/Desktop/FinalPro/bin/Debug/net8.0/FinalPro.deps.json
+/Users/mazn/Desktop/FinalPro/bin/Debug/net8.0/FinalPro.runtimeconfig.json
+/Users/mazn/Desktop/FinalPro/bin/Debug/net8.0/FinalPro.dll
+/Users/mazn/Desktop/FinalPro/bin/Debug/net8.0/FinalPro.pdb
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.AssemblyInfoInputs.cache
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.AssemblyInfo.cs
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.csproj.CoreCompileInputs.cache
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.dll
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/refint/FinalPro.dll
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.pdb
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/FinalPro.genruntimeconfig.cache
+/Users/mazn/Desktop/FinalPro/obj/Debug/net8.0/ref/FinalPro.dll
